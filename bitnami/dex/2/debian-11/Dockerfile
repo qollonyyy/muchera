@@ -1,7 +1,7 @@
 # Copyright VMware, Inc.
 # SPDX-License-Identifier: APACHE-2.0
 
-FROM node:18.17.1
+FROM node:18.20.5
 
 ARG TARGETARCH
 
